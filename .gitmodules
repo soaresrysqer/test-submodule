@@ -1,0 +1,3 @@
+[submodule "real-world-vue"]
+	path = real-world-vue
+	url = git@github.com:soaresrysqer/real-world-vue.git
